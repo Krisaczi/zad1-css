@@ -1,7 +1,7 @@
-ul {
+.list-menu {
   list-style: none;
   display: flex;
 }
-li {
+.list-item {
   padding: 0 20px;
 }
